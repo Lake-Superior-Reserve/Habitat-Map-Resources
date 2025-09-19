@@ -40,7 +40,7 @@ This dataset includes:
 
 ## Project webpage: 
 [https://nerrssciencecollaborative.org/project/Veregin23/](https://nerrssciencecollaborative.org/project/Veregin23/)
-All of the information in this handout (and more) can be found through the project webpage on
-the NERRS Science Collaborative site. This page also includes an overall project summary and
-details about the project team. Two links at the bottom of the page include detailed descriptions
+All of the information in this Readme file (and more) can be found through the project webpage on
+the NERRS Science Collaborative site. That page also includes an overall project summary and
+details about the project team. Two links at the bottom of the project page include detailed descriptions
 of the datasets and final products (Data link) and methodology (Reports link)
