@@ -1,5 +1,6 @@
 # Habitat-Map-Resources
-This repository links to external resources all related to the Lake Superior National Estuarine Research Reserve's Habitat Map - completed in 2025
+This repository links to external resources all related to the Lake Superior National Estuarine Research Reserve's Habitat Map - completed in 2025.
+Contact [Kirsten Rhude](https://lakesuperiornerr.org/staff-directory/kirsten-rhude/) with questions about the Habitat Map. 
 
 # Habitat Map
 This product was funded by the National Estuarine Research Reserve System Science Collaborative.
