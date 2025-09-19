@@ -11,9 +11,9 @@ lower twenty-one miles of the St. Louis River.
 
 ## Methodology
 For detailed methodology, please refer to these GitHub repositories
-[Phase I](https://github.com/umn-uspa/StLouisEstuary_LandCover): Remote-sensing methodology. This step derived land cover from NAIP mosaic
+-  [Phase I](https://github.com/umn-uspa/StLouisEstuary_LandCover): Remote-sensing methodology. This step derived land cover from NAIP mosaic
 using the machine-learning algorithm U-Net
-[Phase II](https://github.com/WIStCart/StLouisEstuary-HabitatMap): This step refined the output from Phase I using geospatial rules to derive the
+-  [Phase II](https://github.com/WIStCart/StLouisEstuary-HabitatMap): This step refined the output from Phase I using geospatial rules to derive the
 final habitat map
 
 ## Selected related products and datasets
